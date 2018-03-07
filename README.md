@@ -1,6 +1,6 @@
 # How to run this Project 
 
-To run this project download or clone the project. Open the index.html file in your favourite browser. You will the see the page is loading successfully. At the bottom of page you will see test results. You can run this project directly from the given link.
+To run this project download or clone the project. Open the index.html file in your favourite browser. You will the see the page is loading successfully. At the bottom of page you will see test results. You can run this project directly from this link.  https://neetugit.github.io/Udacity-FeedReader-Testing-Project
 
 ## Why this Project?
 
